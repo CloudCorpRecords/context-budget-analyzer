@@ -1,0 +1,1 @@
+{"description":"Independent prototype: scan a codebase and estimate each file's cost against an AI coding agent's context budget. Not affiliated with Anthropic.","engines":{"node":">=22.6.0"},"license":"MIT","name":"context-budget","scripts":{"scan":"node src/cli.ts scan","test":"node --test tests/*.test.ts"},"type":"module","version":"0.1.0"}
